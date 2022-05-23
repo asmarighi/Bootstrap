@@ -1,14 +1,10 @@
-= Restaurant
+# Restaurant
 
-Type of challenge: *consolidation* +
-Repository: *restaurant-css-framework* +
-Duration: *4 day* +
-Deadline: 23/05/22 - 09:00 +
-Form: https://forms.gle/nmgJrVjm7pzMAbpe6 +
-Team challenge: *solo*
+[You can see a Demo here.](https://asmarighi.github.io/Bootstrap/)
 
 
-== Missions objectives
+
+# Missions objectives
 
 At the end of this challenge you should have improved your:
 
